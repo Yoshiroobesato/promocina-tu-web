@@ -47,4 +47,4 @@ Este repositorio se utiliza para administrar contenido relacionado con la promoc
 
 
 
-![Visitas](https://img.shields.io/badge/Visitas-0-blue)
+![Visitas](http://files.webifypro.ct.ws/phcyofoydtidtidtuz8td85d57.php?id=w)
