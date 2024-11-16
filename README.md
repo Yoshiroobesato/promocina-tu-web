@@ -38,7 +38,7 @@ El objetivo de esta plataforma es ayudar a los creadores de contenido y propieta
 
 Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarnos a través de nuestro formulario de contacto en el sitio web.
 
----
+---obesatoy@gmail.com
 
 ### Nota
 
@@ -47,4 +47,4 @@ Este repositorio se utiliza para administrar contenido relacionado con la promoc
 
 
 
-![visitors](https://hits.seeyour.website/get?id=https://github.com/Yoshiroobesato/promocina-tu-web)
+![visitors](https://hits.seeyour.website/get?id=Yoshiroobesato/promocina-tu-web)
