@@ -46,4 +46,4 @@ Este repositorio se utiliza para administrar contenido relacionado con la promoc
 
 
 
-![Views](http://files.webifypro.ct.ws/phcyofoydtidtidtuz8td85d57.php?repo=Yoshiroobesato/promocina-tu-web)
+![Views](https://visitor-badge.glitch.me/badge?page_id=Yoshiroobesato/promocina-tu-web)
